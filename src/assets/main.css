@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+  .body{
+    @apply w-full h-screen bg-gradient-to-b via-blue-600 from-purple-400 to-purple-200 via-blue-400
+    flex content-center items-center justify-center
+  }
